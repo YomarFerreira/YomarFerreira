@@ -23,7 +23,8 @@ Languages and technologies I've had contact:
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Android" height="40" src="https://user-images.githubusercontent.com/91606858/169172023-a9f88a3c-da46-4379-9edc-9f289ab9168a.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="React" height="40" src="https://user-images.githubusercontent.com/91606858/169172054-fb31adea-9ff7-484f-8861-a02568ce16b4.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Angular" height="40" src="https://user-images.githubusercontent.com/91606858/169172074-d0c01888-4cfc-4b43-ba71-1374fc354ef1.png"></a>
-</div>
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="C#" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/d7cc08d6-eff5-431f-b86f-39a3d4c94bd6"></a>
+
 
 
 
