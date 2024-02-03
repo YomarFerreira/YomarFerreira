@@ -13,7 +13,7 @@
 <br/>  
 
 
-Languages and technologies I've had contact:
+Technologies and Languages ​​in which I have Practical Experience:
 <div>
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Html" height="40" src="https://user-images.githubusercontent.com/91606858/169172432-0f6bd447-b2d9-4f79-8795-c87132f3ea02.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Css" height="40" src="https://user-images.githubusercontent.com/91606858/169172481-4591165e-e51c-414d-931d-1408bac91dfa.png"></a> &nbsp;
