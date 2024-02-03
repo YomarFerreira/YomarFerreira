@@ -18,13 +18,14 @@ Languages and technologies I've had contact:
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Html" height="40" src="https://user-images.githubusercontent.com/91606858/169172432-0f6bd447-b2d9-4f79-8795-c87132f3ea02.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Css" height="40" src="https://user-images.githubusercontent.com/91606858/169172481-4591165e-e51c-414d-931d-1408bac91dfa.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Javascript" height="40" src="https://user-images.githubusercontent.com/91606858/169171960-a0d93da4-fc65-4a17-95b9-d1672830fb4d.png"></a> &nbsp;
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="TypeScript Js" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/aa24b9c3-c213-4adc-938b-ae7822f9853b"></a>
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Php" height="40" src="https://user-images.githubusercontent.com/91606858/169374254-fd3e145d-cca5-4f97-a4f2-4702e432ec2b.png"></a> &nbsp;
-  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Java" height="40" src="https://user-images.githubusercontent.com/91606858/169171993-3f3421d3-4cd5-48e5-b551-f0278585d9ed.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Android" height="40" src="https://user-images.githubusercontent.com/91606858/169172023-a9f88a3c-da46-4379-9edc-9f289ab9168a.png"></a> &nbsp;
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Node Js" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/f7bf7240-608a-4af4-ac8d-c5c11420b9dd"></a>
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Java" height="40" src="https://user-images.githubusercontent.com/91606858/169171993-3f3421d3-4cd5-48e5-b551-f0278585d9ed.png"></a> &nbsp;
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="C#" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/d7cc08d6-eff5-431f-b86f-39a3d4c94bd6"></a>
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="React" height="40" src="https://user-images.githubusercontent.com/91606858/169172054-fb31adea-9ff7-484f-8861-a02568ce16b4.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Angular" height="40" src="https://user-images.githubusercontent.com/91606858/169172074-d0c01888-4cfc-4b43-ba71-1374fc354ef1.png"></a>
-  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="C#" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/d7cc08d6-eff5-431f-b86f-39a3d4c94bd6"></a>
-
 
 
 
