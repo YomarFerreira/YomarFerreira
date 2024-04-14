@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YomarFerreira, graduated in Business Administration from UFPE and Systems Analysis and Development at Mauricio Nassau University.
+- 👋 Hi, I’m @YomarFerreira, graduated in Systems Analysis and Development at Mauricio Nassau University and Business Administration from Federal University of Pernambuco.
 - 👀 I’m interested in learning everyday and changing my life and that of others by impacting the world in a positive way.
 - 🌱 I’m currently learning several programming languages and technologies that can help in my professional improvement.
 - 💞️ I’m looking to collaborate with everyone around me, but mainly with companies that want to give me an opportunity to show my work.
