@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YomarFerreira, graduated in Systems Analysis and Development at Mauricio Nassau University and Business Administration from Federal University of Pernambuco.
+- 👋 Hi, I’m @YomarFerreira, graduated in Systems Analysis and Development from Mauricio de Nassau University and Business Administration from the Federal University of Pernambuco. I also hold a postgraduate degree in Software Architecture and AI Solutions from XP Educação.
 - 👀 I’m interested in learning everyday and changing my life and that of others by impacting the world in a positive way.
-- 🌱 I’m currently learning several programming languages and technologies that can help in my professional improvement.
-- 💞️ I’m looking to collaborate with everyone around me, but mainly with companies that want to give me an opportunity to show my work.
+- 🌱 I continue to learn languages ​​and technologies that can contribute to my professional development.
+- 💞️ I seek to collaborate with everyone around me, but especially with the company that gives me the opportunity to develop my skills and demonstrate my potential.
 - 📫 How to reach me: it`s easy, write me on my linkedin [https://www.linkedin.com/in/yomarferreira/]
 
 <div>
