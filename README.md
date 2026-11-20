@@ -19,6 +19,7 @@ Technologies and Languages ​​in which I have Practical Experience:
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Css" height="40" src="https://user-images.githubusercontent.com/91606858/169172481-4591165e-e51c-414d-931d-1408bac91dfa.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Javascript" height="40" src="https://user-images.githubusercontent.com/91606858/169171960-a0d93da4-fc65-4a17-95b9-d1672830fb4d.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="TypeScript Js" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/aa24b9c3-c213-4adc-938b-ae7822f9853b"></a> &nbsp;
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="VB6" height="40" src="https://github.com/user-attachments/assets/37ca0997-0157-4b7d-8cfb-c55ee6552a3e" /></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Php" height="40" src="https://user-images.githubusercontent.com/91606858/169374254-fd3e145d-cca5-4f97-a4f2-4702e432ec2b.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Android" height="40" src="https://user-images.githubusercontent.com/91606858/169172023-a9f88a3c-da46-4379-9edc-9f289ab9168a.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Node Js" height="40" src="https://github.com/YomarFerreira/YomarFerreira/assets/91606858/f7bf7240-608a-4af4-ac8d-c5c11420b9dd"></a> &nbsp;
@@ -27,6 +28,7 @@ Technologies and Languages ​​in which I have Practical Experience:
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="React" height="40" src="https://user-images.githubusercontent.com/91606858/169172054-fb31adea-9ff7-484f-8861-a02568ce16b4.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Angular" height="40" src="https://user-images.githubusercontent.com/91606858/169172074-d0c01888-4cfc-4b43-ba71-1374fc354ef1.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Python" height="40" src="https://github.com/user-attachments/assets/6c4aaf57-61c3-4a98-81c9-529e5e3afade" /></a> &nbsp;
+  
 
 
 <!---
