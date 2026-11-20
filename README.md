@@ -28,7 +28,7 @@ Technologies and Languages ​​in which I have Practical Experience:
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="React" height="40" src="https://user-images.githubusercontent.com/91606858/169172054-fb31adea-9ff7-484f-8861-a02568ce16b4.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Angular" height="40" src="https://user-images.githubusercontent.com/91606858/169172074-d0c01888-4cfc-4b43-ba71-1374fc354ef1.png"></a> &nbsp;
   <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Python" height="40" src="https://github.com/user-attachments/assets/6c4aaf57-61c3-4a98-81c9-529e5e3afade" /></a> &nbsp;
-  
+  <a href="https://github.com/YomarFerreira?tab=repositories"><img alt="Blazor" height="40" src="https://github.com/user-attachments/assets/2af9e38c-a3ad-4e2a-8054-3d244727b112" /></a> &nbsp;
 
 
 <!---
